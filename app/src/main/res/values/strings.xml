@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zebra Reader</string>
+    <string name="no_file_found">No file found</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="info">Info</string>
+    <string name="update">Update</string>
+    <string name="no_scanning_data_is_found">No Scanning data is found</string>
+    <string name="zebra_reader">Zebra Reader</string>
+</resources>

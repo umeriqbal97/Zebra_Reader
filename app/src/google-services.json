@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820470095326",
+    "project_id": "zebra-reader",
+    "storage_bucket": "zebra-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820470095326:android:eba95317c4c21b46c6514f",
+        "android_client_info": {
+          "package_name": "com.fauji.zebrareader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820470095326-oka20u2a8kpdgpqosav4r08k36avsjt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xWZEEqhUCQldqHrJ89Zri6S5WMvh6KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820470095326-oka20u2a8kpdgpqosav4r08k36avsjt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
